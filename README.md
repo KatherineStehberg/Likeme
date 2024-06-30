@@ -35,5 +35,6 @@ PGDATABASE=likeme  // Corresponde a la base de datos a la que nos conectaremos
 PGPORT=5432  // Corresponde al puerto habilitado para conectarse a la DB
 
 Ejecución del proyecto:
+
 Para iniciar el proyecto completo, ejecutar el comando npm run dev en el directorio /backend y también en el directorio /frontend. Esto levantará ambos servidores y luego podrás acceder a la URL del servidor de frontend en tu navegador.
 Siguiendo estos pasos, tendrás configurada y lista la aplicación para ejecutarse correctamente con Node.js, Express, y la base de datos PostgreSQL.
